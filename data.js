@@ -218,27 +218,28 @@ export const experience = [
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "M.S. in Electrical Engineering",
+    duration: "Anticipated 2025",
+    subtitle: "University of Washington, Seattle",
     details: [],
     tags: [
-      "Data Structures & Algorithms",
       "Operating Systems",
-      "Database Management System",
-      "Computer Networks",
-      "Compiler Designing",
-      "Cloud Computing",
+      "Embedded System",
+      "Cloud Computing",      
+      "ROS",
+      "RTOS",
+      "Rust",
+      "gRPC",      
     ],
     icon: "graduation-cap",
   },
   {
-    title: "Class 12th in Science and Mathematics",
-    duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
+    title: "B.Eng. in Computer Engineering (Automation Track)",
+    duration: "2018 - 2022",
+    subtitle: "Hangzhou Dianzi University",
     details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
-    icon: "book",
+    tags: ["Data Structures & Algorithms", "Microcontroller", "Algorithms"],
+    icon: "graduation-cap",
   },
 ];
 
